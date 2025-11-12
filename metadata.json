@@ -1,0 +1,5 @@
+{
+  "name": "Bartender's Shift Tracker",
+  "description": "An application for bartenders to log their shifts, track hours worked, and calculate total tips and tips per hour. Data is managed locally with a mock Google Sheets integration, and features a dashboard for CRUD operations on shift records.",
+  "requestFramePermissions": []
+}
